@@ -1,0 +1,3 @@
+# Tips to deploy shiny apps as desktop apps
+
+https://www.travishinkelman.com/deploy-shiny-electron/
